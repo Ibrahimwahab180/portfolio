@@ -10,8 +10,8 @@ B.Sc. Microbiology (CGPA: 4.39/5.0)
 ### Work Experience 
 Climate-Smart Agriculture Intern
 World Agricultural Forum (Netherlands) – Remote | June 2025 - July 2025
-•	Conducting research on the role of CSA in addressing food insecurity and climate impacts in Sub-Saharan Africa
-•	Preparing global comparative briefs on agricultural resilience and emissions reduction strategies
+-Conducting research on the role of CSA in addressing food insecurity and climate impacts in Sub-Saharan Africa
+-Preparing global comparative briefs on agricultural resilience and emissions reduction strategies
 Research Assistant 									2020 -2021 
 Microbiology laboratory unit, Department of Microbiology, Adekunle Ajasin University, Akungba-Akoko. 
 Research: Isolation of Salmonella species from some food and fresh cut vegetable samples sold in Akoko market, Ondo State, Nigeria 
