@@ -2,14 +2,14 @@
 
 **Graduate Microbiologist | Data Analyst | Agribusiness Innovator**  
 UM6P Benguerir Campus, Morocco  
-📧 wahab.ibrahim@um6p.ma | 📞 +212630546031  
+ wahab.ibrahim@um6p.ma | +212630546031  
 🔗 [LinkedIn](https://linkedin.com/in/ibrahim-wahab-olagoke)
 
 ---
 
 ## Professional Summary
 
-First-year Master’s student in Agribusiness Innovation with a strong academic background in Microbiology and hands-on experience in agricultural technology and data analysis. Skilled in Excel, Power BI, SQL, and R for data-driven decision-making in agriculture. Passionate about sustainable farming, especially mushroom cultivation and value chain optimization. Proven ability to manage projects, conduct research, and collaborate in diverse teams to drive innovation in agribusiness.
+A Master’s student in Agribusiness Innovation with a strong academic background in Microbiology and hands-on experience in agricultural technology and data analysis. Skilled in Excel, Power BI, SQL, and R for data-driven decision-making in agriculture. Passionate about sustainable farming, especially mushroom cultivation and value chain optimization. Proven ability to manage projects, conduct research, and collaborate in diverse teams to drive innovation in agribusiness.
 
 ---
 
