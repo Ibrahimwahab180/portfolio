@@ -1,19 +1,19 @@
 # Wahab Olagoke Ibrahim
 
 **Graduate Microbiologist | Data Analyst | Agribusiness Innovator**  
-📍 UM6P Benguerir Campus, Morocco  
+UM6P Benguerir Campus, Morocco  
 📧 wahab.ibrahim@um6p.ma | 📞 +212630546031  
 🔗 [LinkedIn](https://linkedin.com/in/ibrahim-wahab-olagoke)
 
 ---
 
-## 🧠 Professional Summary
+## Professional Summary
 
 First-year Master’s student in Agribusiness Innovation with a strong academic background in Microbiology and hands-on experience in agricultural technology and data analysis. Skilled in Excel, Power BI, SQL, and R for data-driven decision-making in agriculture. Passionate about sustainable farming, especially mushroom cultivation and value chain optimization. Proven ability to manage projects, conduct research, and collaborate in diverse teams to drive innovation in agribusiness.
 
 ---
 
-## 🎓 Education
+##  Education
 
 **M.Sc. Agribusiness Innovation** *(In Progress)*  
 *University Mohammed VI Polytechnic (UM6P), Morocco*  
@@ -24,7 +24,7 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## 🔬 Research Experience
+##  Research Experience
 
 **Climate-Smart Agriculture Intern**  
 *World Agricultural Forum (Remote, Netherlands)* | *June–July 2025*  
@@ -43,7 +43,7 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## 👨‍💻 Professional Experience
+##  Professional Experience
 
 **AgricTech Innovator**  
 *Morocco – Present*  
@@ -64,7 +64,7 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## 🧰 Skills
+##  Skills
 
 - **Technical**: Excel, Power BI, SQL, R, Python, GAMS, Tableau  
 - **Research**: Quantitative analysis, Program evaluation, Microbial characterization  
@@ -73,7 +73,7 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Google Data Analytics | Coursera (2025)  
 - Python Data Analytics Projects | Udemy (2025)  
@@ -85,7 +85,7 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## 🤝 Leadership & Volunteering
+##  Leadership & Volunteering
 
 **Engagement Coordinator** | *Give to the World* | 2023–Present  
 - Led food security projects in underserved communities in Lagos  
@@ -98,7 +98,7 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## 🎤 Conferences & Seminars
+##  Conferences & Seminars
 
 - NAMS Leadership Summit – Abuja, 2019  
 - NSME Conference – FUTA, 2019  
@@ -108,14 +108,14 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## 📚 Publications
+##  Publications
 
 - Ibrahim, O.W. et al. (2025). *Climate Change and Agriculture in Northern Nigeria*. **IIARD Journal of Geography & Environmental Management**, 11(2), 109–126  
 - Ibrahim, O.W. (2021). *Isolation of Salmonella from Fresh Vegetables in Akoko Market*. B.Sc. Project
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 - English – C2 Proficient  
 - Yoruba – Native  
@@ -123,13 +123,13 @@ Relevant Coursework: Agricultural Economics, Data Analytics, Sustainable Food Sy
 
 ---
 
-## ⚽ Interests
+##  Interests
 
 Researching innovative food systems, volunteering, international development, and playing football.
 
 ---
 
-## 📌 References
+##  References
 
 Available upon request.
 
