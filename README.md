@@ -3,7 +3,7 @@
 **Graduate Microbiologist | Data Analyst | Agribusiness Innovator**  
 UM6P Benguerir Campus, Morocco  
  wahab.ibrahim@um6p.ma | +212630546031  
-🔗 [LinkedIn](https://linkedin.com/in/ibrahim-wahab-olagoke) https://github.com/Ibrahimwahab180
+🔗 [LinkedIn](https://linkedin.com/in/ibrahim-wahab-olagoke) [GitHub](https://github.com/Ibrahimwahab180)
 
 ---
 
